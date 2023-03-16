@@ -23,7 +23,7 @@ public class Main {
             }
     
         };
-        Transactions.withdraw(account, 300, listener);
+        Transactions.withdraw(account, 100, listener);
     }
 }
 
